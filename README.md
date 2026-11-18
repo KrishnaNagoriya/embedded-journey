@@ -16,7 +16,6 @@ Week 1-3: C fundamentals, functions, arrays, pointers, dynamic memory (done) Nex
 
 Folder structure
 week-01-c-basics/: C programs from the course
-hackerrank/: problem solutions
 notes/: short notes on each concept
 Tools
-C (GCC/MinGW), VS Code, ESP32, Arduino IDE, Wokwi, HackerRank
+C (GCC/MinGW), VS Code, ESP32
